@@ -1,0 +1,5 @@
+{
+    "name": "CloverCoin",
+    "symbol": "WCC",
+    "algorithm": "scrypt"
+}
